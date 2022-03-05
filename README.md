@@ -3,7 +3,7 @@ These are the Official Docs for ScratchTools. You'll probably be able to answer 
 ## Table of Contents
 - [Basic Questions and Answers](#basic-questions-and-answers)
 - [Contributing](#contributing)
-- [What Does the Process Look Like?](#what-does-the-process-look-like?)
+- [What Does the Process Look Like?](#what-does-the-process-look-like)
 
 ## Basic Questions and Answers
 ### What is ScratchTools?
