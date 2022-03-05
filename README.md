@@ -1,11 +1,9 @@
-
-
 # Welcome to ScratchTools
 These are the Official Docs for ScratchTools. You'll probably be able to answer any question by looking around here, but if not, you can always ask us one [here.](https://discord.gg/rwAs5jDrTQ)
 ## Table of Contents
-[Basic Questions and Answers](#Basic-Questions-and-Answers)
-[Contributing](#Contributing)
-[What Does the Process Look Like?](#What-Does-the-Process-Look-Like?)
+- [Basic Questions and Answers](#basic-questions-and-answers)
+- [Contributing](#contributing)
+- [What Does the Process Look Like?](#what-does-the-process-look-like?)
 
 ## Basic Questions and Answers
 ### What is ScratchTools?
