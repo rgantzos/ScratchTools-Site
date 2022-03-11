@@ -1,3 +1,5 @@
+# This is **NOT** the ScratchTools repository
+This is simply the ScratchTools **website** repository. The real repository is [here.](https://github.com/rgantzosonscratch/ScratchTools/)
 # Welcome to ScratchTools
 These are the Official Docs for ScratchTools. You'll probably be able to answer any question by looking around here, but if not, you can always ask us one [here.](https://discord.gg/rwAs5jDrTQ)
 ## Table of Contents
